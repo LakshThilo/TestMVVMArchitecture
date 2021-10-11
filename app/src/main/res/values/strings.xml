@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HttpUrlConnectionTest</string>
+    <string name="tie_hint_book">Book name</string>
+    <string name="cb_max_search">Max Search(10)</string>
+    <string-array name="book_type">
+        <item>all</item>
+        <item>books</item>
+        <item>magazines</item>
+    </string-array>
+</resources>
